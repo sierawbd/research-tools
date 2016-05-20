@@ -1,0 +1,16 @@
+# Grace project file
+#
+version 50121
+map color 0 to (255, 255, 255), "white"
+map color 1 to (0, 0, 0), "black"
+map color 2 to (79,129,189), "Accent1"
+map color 3 to (192,80,77), "Accent2"
+map color 4 to (155,187,89), "Accent3"
+map color 5 to (128,100,162), "Accent4"
+map color 6 to (75,172,198), "Accent5"
+map color 7 to (247,150,70), "Accent6"
+map color 8 to (153, 153, 153), "med grey"
+map color 9 to (102, 0, 0), "dark red"
+map color 10 to (204, 204, 153), "vu gold"
+map color 11 to (204, 0, 0), "red"
+map color 12 to (51, 0, 204), "blue"

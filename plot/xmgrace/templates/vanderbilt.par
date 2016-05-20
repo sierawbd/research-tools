@@ -1,0 +1,16 @@
+# Grace project file
+#
+version 50121
+map color 0 to (255, 255, 255), "white"
+map color 1 to (0, 0, 0), "black"
+map color 2 to (153, 153, 102), "latte"
+map color 3 to (51, 102, 0), "hunter"
+map color 4 to (51, 51, 102), "dark blue"
+map color 5 to (153, 153, 204), "med blue"
+map color 6 to (153, 153, 153), "med grey"
+map color 7 to (102, 0, 0), "dark red"
+map color 8 to (204, 204, 153), "vu gold"
+map color 9 to (204, 0, 0), "red"
+map color 10 to (51, 0, 204), "blue"
+map color 11 to (204, 204, 204), "grey"
+map color 12 to (153, 0, 0), "med red"

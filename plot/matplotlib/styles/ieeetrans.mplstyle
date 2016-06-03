@@ -1,0 +1,12 @@
+# Matplotlib style file for IEEE transactions figures
+# Written for matplotlib 1.3
+font.size: 8
+font.serif: Times New Roman, Cambria
+font.sans-serif: Helvetica, Arial
+font.family: serif
+axes.color_cycle: k, r, b, g
+figure.figsize: 3.5, 2.25
+figure.subplot.left: 0.15
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.15
+figure.subplot.top: 0.90
